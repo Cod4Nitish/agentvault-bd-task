@@ -1,4 +1,9 @@
-# Kickstarting AgentVault's First 50 Users
+<div align="center">
+  <h1>AgentVault — Go-to-Market Case Study</h1>
+  <p>Early-adopter research, positioning, and outreach strategy</p>
+  <img src="https://img.shields.io/badge/status-archived-6B7280?style=flat-square" alt="Status: archived" />
+  <img src="https://img.shields.io/badge/type-strategy%20case%20study-7C3AED?style=flat-square" alt="Strategy case study" />
+</div>
 
 > [!NOTE]
 > **Archived business-development case study.** This repository preserves a 2025 shortlisting submission about early user acquisition for AgentVault. It is retained as a writing and strategy sample; it is not an active product repository.

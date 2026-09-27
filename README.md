@@ -3,6 +3,18 @@
 > [!NOTE]
 > **Archived business-development case study.** This repository preserves a 2025 shortlisting submission about early user acquisition for AgentVault. It is retained as a writing and strategy sample; it is not an active product repository.
 
+## Snapshot
+
+| Focus | Evidence preserved here |
+| --- | --- |
+| Audience research | Two early-adopter segments with their jobs, pain points, and discovery channels. |
+| Positioning | A concise AI trading-assistant value proposition. |
+| Outreach | Tailored Discord and X outreach examples for early feedback conversations. |
+
+## How to review this work
+
+Read the target-segment rationale first, then compare the long-form outreach message with the short public-reply variant. The document is most useful as an example of problem framing, audience selection, and practical go-to-market communication—not as financial or trading advice.
+
 **Business Development Intern Shortlisting Task — Nitish Kumar Singh**
 
 ## 1. Target User Segments

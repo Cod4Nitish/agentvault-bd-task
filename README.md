@@ -16,6 +16,32 @@
 | Positioning | A concise AI trading-assistant value proposition. |
 | Outreach | Tailored Discord and X outreach examples for early feedback conversations. |
 
+## First-50 acquisition model
+
+~~~mermaid
+flowchart LR
+    A[Active retail crypto traders] --> C[Discord, X, Reddit and TradingView]
+    B[Student and early-career investors] --> D[Blockchain clubs, hackathons and LinkedIn]
+    C --> E[Personalised early-access outreach]
+    D --> E
+    E --> F[Beta feedback]
+    F --> G[Referral and creator loops]
+    G --> H[First 50 users]
+~~~
+
+## Evidence and planning numbers
+
+| Part of the plan | Detail documented in the submission |
+| --- | --- |
+| Priority audience | Active retail crypto traders who follow multiple charts and alerts. |
+| Secondary audience | Students and early-career investors looking for accessible research tooling. |
+| Campus test | Partner with 3-5 blockchain or fintech clubs; the proposal estimates 10-15 sign-ups per club. |
+| Creator test | Approach 10-15 small crypto creators with roughly 5k-50k followers for honest first-impressions content. |
+| Referral trigger | Offer a bonus feature after an early user refers two friends. |
+
+> [!IMPORTANT]
+> The figures above are **go-to-market hypotheses from a shortlisting task**, not published campaign results or trading-performance claims.
+
 ## How to review this work
 
 Read the target-segment rationale first, then compare the long-form outreach message with the short public-reply variant. The document is most useful as an example of problem framing, audience selection, and practical go-to-market communication—not as financial or trading advice.

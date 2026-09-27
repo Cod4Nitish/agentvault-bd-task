@@ -1,4 +1,8 @@
 # Kickstarting AgentVault's First 50 Users
+
+> [!NOTE]
+> **Archived business-development case study.** This repository preserves a 2025 shortlisting submission about early user acquisition for AgentVault. It is retained as a writing and strategy sample; it is not an active product repository.
+
 **Business Development Intern Shortlisting Task — Nitish Kumar Singh**
 
 ## 1. Target User Segments
